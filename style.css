@@ -1,0 +1,18 @@
+.nav-link
+{
+    color:cornsilk!important
+}
+.nav-item.active
+{
+    background-color: #ffc107!important;
+    color:black!important;    
+}
+.navbar-brand
+{
+    color:#ffc107!important;
+}
+
+.fa
+{
+    color:whitesmoke!important;
+}
